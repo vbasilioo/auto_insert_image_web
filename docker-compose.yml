@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  front:
+    build:
+      dockerfile: .
+    container_name: front
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./:/app
+    networks:
+      - app-networks
+
+networks:
+  app-networks:
+    driver: bridge
