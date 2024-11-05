@@ -20,9 +20,10 @@ Este projeto é uma aplicação web construída com Next.js 14, utilizando o pod
 - **Next.js 14**: Um framework React para construção de aplicações rápidas e amigáveis.
 - **Tailwind CSS**: Um framework CSS utilitário para desenvolvimento rápido de UI.
 - **Shadcn**: Uma biblioteca de componentes acessíveis para aprimorar o design da UI.
-- **Aceternity**: Integração com a blockchain Aceternity para recursos descentralizados.
+- **Aceternity**: Biblioteca de componentes acessíveis e de animações para design UI.
 - **TypeScript**: Fornece segurança de tipos e uma experiência de desenvolvimento aprimorada.
 - **Docker**: Contêineres para facilitar o desenvolvimento e a implantação.
+- **React Query**: Gerencia o estado e a sincronização de dados remotos em aplicações React com eficiência e simplicidade.
 
 ## Pré-requisitos
 
