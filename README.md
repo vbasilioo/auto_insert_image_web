@@ -85,24 +85,26 @@ Para construir a aplicação para produção, siga estas etapas:
 
 ## Demonstração
 
-### Vídeo
-<div align="center">
-    <video width="600" controls>
-        <source src="https://youtu.be/oJsMdDedV7g" type="video/mp4">
-        Seu navegador não suporta a tag de vídeo.
-    </video>
-</div>
+## Vídeo
+
+Aqui está um vídeo explicativo do projeto:
+
+[![Assista no YouTube](https://img.youtube.com/vi/oJsMdDedV7g/0.jpg)](https://www.youtube.com/watch?v=oJsMdDedV7g)
 
 ### Imagens
-<div align="center">
-    <img src="https://i.imgur.com/w94Ufin.png" alt="Imagem 1" width="400" />
-    <img src="https://i.imgur.com/ysPTLaR.png" alt="Imagem 2" width="400" />
-    <img src="https://i.imgur.com/eZpNejl.png" alt="Imagem 3" width="400" />
-    <img src="https://i.imgur.com/IGFY6ES.png" alt="Imagem 4" width="400" />
-    <img src="https://i.imgur.com/SNDVx6V.png" alt="Imagem 5" width="400" />
-    <img src="https://i.imgur.com/AoSERQL.png" alt="Imagem 6" width="400" />
-    <img src="https://i.imgur.com/5wTPzmB.png" alt="Imagem 7" width="400" />
-    <img src="https://i.imgur.com/D2wvbSl.png" alt="Imagem 8" width="400" />
-    <img src="https://i.imgur.com/oUZPvJi.png" alt="Imagem 9" width="400" />
-    <img src="https://i.imgur.com/XB1MsuO.png" alt="Imagem 10" width="400" />
-</div>
+
+<details>
+  <summary>Clique para ver as imagens</summary>
+  <div align="center">
+      <img src="https://i.imgur.com/ysPTLaR.png" alt="Imagem 2" width="400" />
+      <img src="https://i.imgur.com/eZpNejl.png" alt="Imagem 3" width="400" />
+      <img src="https://i.imgur.com/IGFY6ES.png" alt="Imagem 4" width="400" />
+      <img src="https://i.imgur.com/SNDVx6V.png" alt="Imagem 5" width="400" />
+      <img src="https://i.imgur.com/AoSERQL.png" alt="Imagem 6" width="400" />
+      <img src="https://i.imgur.com/5wTPzmB.png" alt="Imagem 7" width="400" />
+      <img src="https://i.imgur.com/D2wvbSl.png" alt="Imagem 8" width="400" />
+      <img src="https://i.imgur.com/w94Ufin.png" alt="Imagem 1" width="400" />
+      <img src="https://i.imgur.com/oUZPvJi.png" alt="Imagem 9" width="400" />
+      <img src="https://i.imgur.com/XB1MsuO.png" alt="Imagem 10" width="400" />
+  </div>
+</details>
